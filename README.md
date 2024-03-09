@@ -11,12 +11,12 @@ I'm learning data science bootcamp. There are 10 sprints in the program
 - Data Transformation
 - Data Visualization
 
-  ## Second part of the program
+## Second part of the program
 
-  - Building website
-  - Essential Statistics
-  - Machine Learning for Data Analyst
-  - Essential Python for Data Analyst
-  - Dashboard with Looker Studio
- 
-    Contact me: panasorn.kae@gmail.com
+- Building website
+- Essential Statistics
+- Machine Learning for Data Analyst
+- Essential Python for Data Analyst
+- Dashboard with Looker Studio
+
+Contact : panasorn.kae@gmail.com
